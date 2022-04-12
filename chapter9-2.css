@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-box{
+  width: 100%;
+  height: 50px;
+  background-color: #ff9a4b;
+}
+
+.main-content{
+  width: 960px;
+  
+}
+
+.main-box{
+  width: 300px;
+  padding: 10px;
+  background-color: #eeeeee;
+}
+
+.main-image{
+  height: 150px;
+  
+  background-image: url(img/flow01.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.footer-box{
+  width: 100%;
+  height: 50px;
+  background-color:#aaaaaa;
+}
